@@ -1,0 +1,275 @@
+@media screen and (max-width: 992px ){
+    .portrait-text{
+        margin-left: 0px;
+    }
+    .character-text{
+        margin-left: 0px;
+    }
+    .portrait-text{
+        margin-left: 50px;
+    }
+    .char-picture{
+    max-width: 450px;
+    margin-top: 50px;
+    }
+    .character-text{
+        max-width: 450px;
+        margin-left: 27px;
+    }
+    .character-text p{
+        font-size: 23px;
+        padding: 0px;
+    }
+    .contacts{
+        padding: 10px 180px;
+    }
+
+    .potrait1{
+        max-width: 280px;
+    }
+    .potrait2{
+        max-width: 310px;
+    }
+    .potrait3{
+        max-width: 335px;
+    }
+    .potrait4{
+        max-width: 297px;
+    }
+    .potrait5{
+        max-width: 325px;
+    }
+    .potrait6{
+        max-width: 302px;
+    }
+    .potrait7{
+        max-width: 272px;
+    }
+    .potrait8{
+        max-width: 340px;
+    }
+    .potrait9{
+        max-width: 313px;
+    }
+    .potrait10{
+        max-width: 308px;
+    }
+    .potrait11{
+        max-width: 308px;
+    }
+    .potrait12{
+        max-width: 308px;
+    }
+    .potrait13{
+        max-width: 320px;
+    }
+    .potrait14{
+        max-width: 320px;
+    }
+    .potrait15{
+        max-width: 285px;
+    }
+    .potrait16{
+        max-width: 321px;
+    }
+    .potrait17{
+        max-width: 320px;
+    }
+    .potrait18{
+        max-width: 280px;
+    }
+
+    form input{
+        max-width: 700px;
+        height: 70px;
+        padding: 10px;
+    }
+
+    .text{
+        font-size: 18px;
+    }
+    .cost{
+        max-width: 300px;
+    }
+    .button{
+        margin-left: 22px;
+    }
+}
+@media screen and (max-width: 768px ){
+    .por-picture{
+        max-width: 320px;
+        margin-top: 20px;
+    }
+    .portrait-text{
+        margin-left: 5px;
+        padding: 5px;
+    }
+    .character-text{
+        margin-left: 5px;
+        padding: 5px;
+        margin: 0px;
+        margin-right: 5px;
+    }
+    .char-picture{
+        max-width: 350px;
+        margin-top: 30px;
+    }
+    .contacts{
+        padding: 0px 50px;
+    }
+    .potrait1{
+        max-width: 463px;
+        margin-bottom: 5px;
+        margin-left: 60px;
+    }
+    .potrait2{
+        max-width: 463px;
+        margin-bottom: 5px;
+        margin-left: 60px;
+    }
+    .potrait3{
+        max-width: 464px;
+        margin-bottom: 5px;
+        margin-left: 60px;
+    }
+    
+    .potrait4{
+        max-width: 464px;
+        margin-bottom: 5px;
+        margin-left: 60px;
+    }
+    .potrait5{
+        max-width: 464px;
+        margin-bottom: 5px;
+        margin-left: 60px;
+    }
+    .potrait6{
+        max-width: 464px;
+        margin-bottom: 5px;
+        margin-left: 60px;
+    }
+    
+    .potrait7{
+        max-width: 465px;
+        margin-bottom: 5px;
+        margin-left: 60px;
+    }
+    .potrait8{
+        max-width: 466px;
+        margin-bottom: 5px;
+        margin-left: 60px;
+    }
+    .potrait9{
+        max-width: 466px;
+        margin-bottom: 5px;
+        margin-left: 60px;
+    }
+    
+    .potrait10{
+        max-width: 466px;
+        margin-bottom: 5px;
+        margin-left: 60px;
+    }
+    .potrait11{
+        max-width: 465px;
+        margin-bottom: 5px;
+        margin-left: 60px;
+    }
+    .potrait12{
+        max-width: 465px;
+        margin-bottom: 5px;
+        margin-left: 60px;
+    }
+    
+    .potrait13{
+        max-width: 465px;
+        margin-bottom: 5px;
+        margin-left: 60px;
+    }
+    .potrait14{
+        max-width: 466px;
+        margin-bottom: 5px;
+        margin-left: 60px;
+    }
+    .potrait15{
+        max-width: 466px;
+        margin-bottom: 5px;
+        margin-left: 60px;
+    }
+    
+    .potrait16{
+        max-width: 468px;
+        margin-bottom: 5px;
+        margin-left: 60px;
+    }
+    .potrait17{
+        max-width: 600px;
+        margin-bottom: 5px;
+        margin-left: 60px;
+    }
+    .potrait18{
+        max-width: 401px;
+        margin-bottom: 5px;
+        margin-left: 60px;
+    }
+      
+    .prices-list{
+        display: flex;
+        flex-direction: column;
+    }
+    .cost{
+        margin-top: 5px;
+        margin-left: 80px;
+        max-width: 450px;
+        max-height: 1350px;
+    }
+    .text{
+        font-size: 20px;
+    }
+    .button{
+        margin-left: 100px;
+    }
+}
+    @media screen and (max-width: 576px ){
+        .digital-img-tx{
+            padding: 10px;
+            font-size: 20px;
+        }
+        .portrait{
+            display: flex;
+            flex-direction: column;
+        }
+        .portrait-img{
+            margin-bottom: 20px;
+            margin-top: 0px;
+            margin-left: 102px;
+        }
+        .portrait-text{
+            margin-left: 45px;
+        }
+        .character-text{
+            margin-left: 45px;
+        }
+        .character-img{
+            margin-left: 80px;
+            max-width: 80px;
+            max-width: 100px;
+        }
+        .contacts{
+            padding: 0px 0px;
+            margin: 20px;
+        }
+        .nav-a{
+            margin: 2px;
+            font-size: 15px;
+        }
+
+        .potrait17{
+            max-width: 370px;
+        }
+
+        form input{
+            width: 515px;
+            height: 70px;
+        }
+}

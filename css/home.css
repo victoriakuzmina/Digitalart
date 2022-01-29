@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&display=swap');
+*{
+    font-family: 'Mulish', sans-serif;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.logo-picture{
+    max-width: 40px;
+    max-height: 40px;
+    margin-top: 5px;
+}
+header{
+    margin: 0;
+}
+.link{
+    display: flex;
+    justify-content: center;
+   
+}
+.nav-a{
+    margin: 10px;
+    color: black;
+    text-decoration: none;
+    border: 1px solid transparent;
+}
+.nav-a:hover{
+    color: #7b6154;
+    border-bottom: 1px solid #7b6154;
+    transition-duration: 0.5s;
+}
+.digital-img{
+    background-image: url(../img/disain.jpg);
+    background-position: center;
+    background-repeat: none;
+    max-width: 1307px;
+    max-height: 500px;
+    background-size: 1307px;
+    margin-top: 10px;
+}
+.digital-img-tx{
+    background-color: black;
+    opacity: .7;
+    font-weight: 700;
+    padding: 70px;
+    color: white;
+    font-size: 25px;
+    text-align: justify;
+}
+.h2{
+    font-weight: 700;
+    font-size: 50px;
+}
+.portrait{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.portrait-img{
+    max-width: 395px;
+    max-height: 450px;
+}
+.por-picture{
+    max-width: 400px;
+    border-radius: 5px;
+}
+.portrait-text{
+    max-width: 430px;
+    max-height: 450px;
+    padding: 30px;
+    margin-left: 100px;
+    border-radius: 5px;
+}
+.portrait-text:hover{
+    background-color: #7b6154;
+    color: white;
+    transition-duration: 00.5s;
+}
+.portrait-text p{
+    font-size: 25px;
+    text-align: justify;
+}
+.char-picture{
+    max-width: 400px;
+    border-radius: 5px;
+}
+.char-picture{
+    max-width: 500px;
+    border-radius: 5px;
+}
+.character-text{
+    max-width: 430px;
+    max-height: 600px;
+    padding: 40px;
+    margin-right: 100px;
+    margin-left: 50px;
+    border-radius: 5px;
+}
+.character-text:hover{
+    background-color: #7b6154;
+    color: white;
+    transition-duration: 00.5s;
+}
+.character-text p{
+    font-size: 25px;
+    text-align: justify;
+}
+.description{
+    font-weight: 700;
+    font-size: 50px;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    margin-top: 70px;  
+}
+.contacts{
+    background-color: white;
+    max-width: 1000px;
+    max-height: 500px;
+    margin: 60px;
+    padding: 30px 200px;
+}
+.contacts h3{
+    text-align: center;
+}
+.contacts a{
+    color: black;
+    text-decoration: none;
+}
+.contacts a:hover{
+    color: #7b6154;
+}
+.con1 p{
+    font-size: 25px;
+}
+.telephone{
+    margin-left: 50px;
+}
+.con-img{
+    max-width: 40px;
+    max-height: 40px;
+    margin: 10px 50px;
+}
